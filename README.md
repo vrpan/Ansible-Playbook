@@ -13,7 +13,7 @@ password:
 
 Generating Password Strings
 
-### mkpasswd --method=sha-512
+**mkpasswd --method=sha-512**
 
 ------------------------------------------------------------------------------------------
 
