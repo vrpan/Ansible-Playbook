@@ -1,5 +1,6 @@
 ---
-- hosts: all
+- name: Portainer installation in Docker on Ubuntu
+  hosts: all
   become: yes
   vars:
     docker_compose_version: "1.28.5"
