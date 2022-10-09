@@ -14,7 +14,7 @@ Generating Password Strings
 
 ### mkpasswd --method=sha-512
 
-
+------------------------------------------------------------------------------------------
 
 ### portainer.yml
 
