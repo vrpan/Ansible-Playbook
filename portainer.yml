@@ -102,3 +102,10 @@
         rule: allow
         port: "9000"
         proto: tcp
+        
+    - name: Open SSH port
+      ufw:
+        state: enabled
+        rule: allow
+        port: "22"
+        proto: tcp
