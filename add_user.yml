@@ -14,7 +14,7 @@
         system: no
         state: present
         createhome: yes
-        groups: sudo
+        groups:
         append: yes
         home: "/home/{{ item }}"
         update_password: on_create
